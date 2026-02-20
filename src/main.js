@@ -1,3 +1,6 @@
+import './style.css'
+
+
 // Initial Setup
 const body = document.querySelector('body');
 const canvas = document.querySelector('canvas');
